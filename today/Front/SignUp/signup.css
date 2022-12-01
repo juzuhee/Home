@@ -1,0 +1,262 @@
+@charset "utf-8";
+
+body{
+background: #FFFDF5;
+}
+/*회원가입*/
+h3{
+    position: absolute;
+    width:41%;
+    top:11%;
+    left:30%;
+    border-bottom: 3px solid #442C2C;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    text-align: center;
+    color: #442C2C;
+}
+/*아이디*/
+.enter_id{
+    position: absolute;
+    width: 25%;
+    height: 6%;
+    top: 24%;
+    left: 44%;
+
+    background: #FFFDF5;
+    border:none;
+    border-bottom: 1px solid #000000;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-display: left;
+    font-weight: 300;
+    font-size: 25px;
+    color: #727272;
+}
+.text_id{
+    position: absolute;
+    top: 27%;
+    left: 34%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #442C2C;
+}
+/*비밀번호*/
+.enter_pw{
+    position: absolute;
+    width: 25%;
+    height: 6%;
+    top: 33%;
+    left: 42%;
+
+    background:#FFFDF5;
+    border:none;
+    border-bottom: 1px solid #000000;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25px;
+    color: #727272;
+}
+.text_pw{
+    position: absolute;
+    top: 36.5%;
+    left: 33.5%;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #442C2C;
+}
+/*비밀번호 확인*/
+.enter_pw_check{
+    position: absolute;
+    width: 25%;
+    height: 6%;
+    top: 43%;
+    left: 42%;
+
+    background: #FFFDF5;
+    border:none;
+    border-bottom: 1px solid #000000;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25px;
+    color: #727272;
+}
+.text_pw_check{
+    position: absolute;
+    top: 46%;
+    left: 32%;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #442C2C;
+}
+/*이름 입력*/
+.enter_name{
+    position: absolute;
+    width: 25%;
+    height: 6%;
+    top: 52%;
+    left: 42%;
+
+    background: #FFFDF5;
+    border:none;
+    border-bottom: 1px solid #000000;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25px;
+    color: #727272;
+}
+.text_name{
+    position: absolute;
+    top: 55%;
+    left: 34.5%;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #442C2C;
+}
+
+/*성별*/
+.text_sex{
+    position: absolute;
+    top: 65%;
+    left: 33%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #442C2C;
+}
+
+.check_box_w {
+    position: absolute;
+    top: 65%;
+    left: 38%;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+
+    color: #442C2C;
+}
+.check_box_m {
+    position: absolute;
+    top: 65%;
+    left: 43.5%;
+    font-size: 24px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+
+    color: #442C2C;
+}
+
+/*생일*/
+.text_birth{
+    position: absolute;
+    top: 65%;
+    left: 51%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #442C2C;
+}
+.check_birth{
+    position: absolute;
+    width: 8%;
+    height: 3%;
+    top: 65%;
+    left: 59%;
+}
+/*동의*/
+.agree{
+    border-radius: -10%;
+    position: absolute;
+    top: 74%;
+    left:35%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+
+    color: #442C2C;
+}
+
+/*회원가입 버튼*/
+.submit_signup{
+    position: absolute;
+    width: 35%;
+    height: 8.5%;
+    top: 82%;
+    left:33%;
+
+    background: #442C2C;
+    border:none;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 22px;
+    color: white;
+
+}
