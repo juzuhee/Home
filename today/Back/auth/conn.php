@@ -1,6 +1,6 @@
 <?php
     /* Connection */
-    $conn = mysqli_connect("210.90.136.10", "pino", "qwer1595", "php");
+    $conn = mysqli_connect("127.0.0.1", "root", "", "php");
 
     if ($conn == false)
         echo "\n result: false"; 

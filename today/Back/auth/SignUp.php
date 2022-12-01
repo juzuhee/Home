@@ -27,4 +27,9 @@
     <label for="a">이용약관 및 개인정보수집 및 이용, 정보 수신에 동의합니다.</label><br />
     
     <input type="submit" value="회원가입">
+    <script>
+
+        
+    </script>
+    
 </form>

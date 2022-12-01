@@ -1,0 +1,6 @@
+CREATE TABLE sujin_board(
+	idx INTEGER AUTO_INCREMENT PRIMARY KEY,
+	title VARCHAR(40),
+	memo VARCHAR(40), 
+	user_id VARCHAR(40)
+)
