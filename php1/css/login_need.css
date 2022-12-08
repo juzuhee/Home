@@ -1,0 +1,20 @@
+#big_box {
+    width: 100%;
+    height: 885px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#middle_box{
+    height: 39px;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    text-align: center;
+    color: #AB6700;
+}
+#login_go{height: 54px;font-weight: 400;font-size: 25px;line-height: 30px;color: #AB6700;display: flex;justify-content: center;align-items: center;}
+#login_go>div{
+    position: absolute;
+    padding-bottom: 100px;
+}

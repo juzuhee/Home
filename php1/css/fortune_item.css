@@ -1,0 +1,5 @@
+#contents_1{display: flex; flex-direction: row; justify-content:space-around; margin-top: 200px; margin-left: 187px; margin-right: 187px;}
+#contents_1 .fortune_two .machine1{width: 215px; height: 215px; padding-left: 45px;}
+#contents_1 .fortune_two .machine1 img{width: 200px; height: 200px; border: 4px solid rgba(171, 103, 0, 1); border-radius: 50%;box-sizing: border-box;}
+#contents_1 .fortune_two .fortune_text{width : 308px; height : 193px;font-family: Inter;font-size: 43px;font-weight: 700;line-height: 52px;letter-spacing: 0.05em;text-align: center; white-space: normal;color: rgba(171, 103, 0, 1);}
+#menu_bar li.navi_6 a {border-bottom:5px solid #000000}

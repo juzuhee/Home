@@ -1,0 +1,27 @@
+#other_listen{
+    width: 1334px;
+    height: 545px;
+    border: 5px solid #A55E0B;
+    border-radius: 20px;
+    box-sizing: border-box;
+    margin-top: 31px;
+    margin-left: 39px;
+}
+#calender_2{color: white;
+    width: 499px;
+    height: 72px;
+    font-size: 43px;
+    border-radius: 20px;
+    border : 4px solid #C98724;
+    background: #FFF1A5;
+    text-align: center;
+    box-sizing: border-box;
+    position: relative;
+    letter-spacing: 5%;
+    line-height: 52px, 100%;
+    font-weight: 400;
+    -webkit-text-stroke: 2px rgba(171, 103, 0, 1);
+    margin-top: 31px;
+    margin-left:883px ;
+}
+    
