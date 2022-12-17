@@ -1,5 +1,5 @@
 <form action="insert.php" method="post">
-    <h2>회원가입</h2>
+    <h2>회원가입</h2> <!-- 회원가입 창 구현 -->
     <hr>
 
     <label for="id">아이디</label>

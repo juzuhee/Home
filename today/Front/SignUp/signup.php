@@ -9,9 +9,10 @@
     <?php
     include("../header/top_header.php");
     ?>
+
+    <form action="../../back/auth/insert.php" method="post">
+
     <h3>회원가입<br><br></h3>
-    
-    <form action="insert.php" method="post">
 
     <label for="id" class="text_id">아이디</label>
     <input type="text" name="id" id="id" class="enter_id"><br />

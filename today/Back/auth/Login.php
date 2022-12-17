@@ -1,5 +1,5 @@
 <form action="select.php" method="post">
-    <h2>LOGIN</h2>
+    <h2>LOGIN</h2> <!-- Login 창 구현 -->
     <hr>
 
     <input type="text" name="id" placeholder="ID"><br />
